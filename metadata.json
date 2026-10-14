@@ -1,0 +1,6 @@
+{
+  "name": "Smart School Attendance Register",
+  "description": "Digitized dual-session school attendance management system with morning/afternoon register marks, automated statistics, punctuality tracking, and terminal reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
